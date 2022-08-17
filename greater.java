@@ -25,5 +25,6 @@ public class greater {
         }
 
         System.out.println("The grater number is "+ max);
+        num.close();
     }
 }
